@@ -1,0 +1,55 @@
+/*dalini bilau goncalves 
+2/27/2024*/
+
+
+#outerwrapper {
+
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;
+} 
+
+.floatleft { 
+float: left;
+margin-right: 3%;
+}
+
+.floatright {
+float: right;
+margin-left: 3%;
+}
+
+main, footer { 
+clear: both;
+}
+body {
+	background-color: #B8D1EB;
+	color: #000000;
+	font-family: 'Times New Roman', Times, serif;
+}
+main {
+	background-color: #C5A98B;
+	padding: 10px;;
+}
+h1 {
+	font-family: Tahoma, sans-serif;
+	font-size: 50px;
+	font-weight: bolder;
+}
+h2 {
+	font-weight: normal;
+	font-style: italic;
+}
+main ul {
+	list-style-image: url("../images/tomato.png");
+}
+footer{
+	background-color: rgb(230, 177, 109);
+	font-size: .75em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+nav ul {
+	list-style-type: none;
+}
