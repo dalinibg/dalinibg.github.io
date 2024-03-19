@@ -1,0 +1,63 @@
+
+/*Dalini Bilau Goncalves 3/19/2024 */
+
+header {
+	width: 80%;
+}
+	 
+#outerwrapper {	
+	border-radius: 15%;
+	background: rgba(243,205,170, 0.4);
+	width: 70%;
+	text-align: center;
+	margin: auto;
+}
+html {
+	background-image: url(../image/jewelry.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+footer {
+	font-size: 1em;
+	text-align: center;
+	padding-bottom: 10px;
+}
+main {
+	background: linear-gradient(#FFFFFF, #F0F9E6);
+	padding: 10PX;
+	margin: 20px;
+	border-radius: 2em;
+	font-size: 1.25em;
+	text-align: left;
+	font-family: 'Times New Roman', Times, serif, Verdana, sans-serif, 'Trebuchet MS', sans-serif;
+}
+.addrightmargin {
+	float: left;
+	border-radius: 50%;
+	margin-right: 10%;
+	
+}
+nav ul li {
+	list-style: none;
+	font-size: 1.5em;
+	float: none;
+}
+h1 {
+	font-family: "Pacifico", cursive;
+	font-size: 4em;
+	
+}
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../fonts/Roboto-Black.ttf') format("truetype");
+    src: url('../fonts/Roboto-BlackItalic.ttf') format("truetype");
+    font-style: italic;
+}
+h2 {
+	font-family: 'Roboto-Black';
+	font-size: 2em;
+}
+nav {
+	text-align: left;
+}
