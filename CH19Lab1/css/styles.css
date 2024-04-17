@@ -1,0 +1,13 @@
+/*dalini bilau goncalves 4/17/2024*/
+:root {
+  --fontSize: 1.25em;
+  --fointSizeHeading: calc(var(
+    --fontSize) *3
+  )
+}
+body {
+  font-size: var(--fontSize);
+}
+h1 {
+  font-size: var(--fointSizeHeading);
+}
